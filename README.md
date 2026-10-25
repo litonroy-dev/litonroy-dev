@@ -1,6 +1,6 @@
 <div align="center">
 
-# Liton Chandra Barman
+# Liton Roy
 
 ### Frontend Developer  ·  React  ·  Next.js  ·  UI/UX
 
